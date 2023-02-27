@@ -50,11 +50,13 @@ li {
     display: flex;
 
 }
+
 main {
     display: flex;
     margin: auto;
     width: 700px;
 }
+
 .feedbackGeneral {
     display: flex;
     flex: 1;
@@ -92,13 +94,6 @@ main {
     background: linear-gradient( hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
     text-align: center;
 }
-
-
-/*.points {*/
-/*    margin:15% 0 0 0;*/
-/*    padding: 12.5% 0 0 0;*/
-/*}*/
-
 
 .summary {
     display: flex;
